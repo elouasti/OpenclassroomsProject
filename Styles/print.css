@@ -1,0 +1,24 @@
+@font-face{
+	font-family: 'dayrom';
+	src:url('polices/dayrom.eot');	
+}
+
+body{
+	font-family: 'dayrom';
+	
+}
+
+header,section,article,aside,footer,nav{
+	border-style:dashed;
+}
+
+
+
+
+
+
+
+
+
+
+
